@@ -105,8 +105,8 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`id`, `cname`, `cemail`, `csubject`, `cmessage`) VALUES
-(16, 'Shubham Seth', 'ristar@gmail.com', 'Partnership', 'i want to work with you , please contact me on my personal mobile no\r\nat <strong>7838403916</strong>'),
-(17, 'Sukriti Seth', 'sukriti46737@gmail.com', 'Complaint', 'i used your service but i dont like it you are worst servoces provider ever i am gonna sue you on fedral court and you have to pay a very big ammount to me becayuse of you i loss 20000 million dollars and you provide the worst service u have ever.');
+(16, 'Justina Angela', 'justinabe@gmail.com', 'Partnership', 'i want to work with you , please contact me on my personal mobile no\r\nat <strong>3333333333</strong>'),
+(17, 'Agnes Abigail', 'agimaggi@gmail.com', 'Complaint', 'i used your service but i dont like it you are worst servoces provider ever have ever.');
 
 -- --------------------------------------------------------
 
@@ -136,7 +136,7 @@ CREATE TABLE `personal_setup` (
 --
 
 INSERT INTO `personal_setup` (`id`, `profilepic`, `name`, `twitter`, `facebook`, `instagram`, `skype`, `linkedin`, `github`, `homewallpaper`, `professions`, `location`, `mobile`, `emailid`) VALUES
-(1, 'profile-img.jpg', 'Alex Smith', '', 'https://www.facebook.com/oyeitsmg', 'https://www.instagram.com/oyeitsmg', '@oyeitsmg', 'https://in.linkedin.com/in/whomonugiri', 'https://github.com/whomonugiri/', 'hero-bg.jpg', 'Web Developer,PHP Developer,Youtuber,Graphic Designer', 'C-537 Mahavir Enclave Part 3, Street No 45 New Delhi 110059', '+917548935467', 'alex@gmail.com');
+(1, 'profile-img.jpg', 'Okwara Chukwuebuka', '', 'https://www.facebook.com/okwaraj', 'https://www.instagram.com/cjoshuao', '@cjoshuao', 'https://in.linkedin.com/in/okwajosh', 'https://github.com/happyjosh-tech/', 'hero-bg.jpg', 'Web Developer,PHP Developer,Youtuber,Graphic Designer', 'Lagos, Lagos, Nigeria', '+2348165520656', 'okwajoshltd@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -182,9 +182,9 @@ CREATE TABLE `resume` (
 --
 
 INSERT INTO `resume` (`id`, `category`, `title`, `year`, `ogname`, `workdesc`) VALUES
-(7, 'e', 'Class 12th', '2016 - 2018', 'Navjeewan Academy Senior Secondary School, CBSE', 'it was fun'),
-(8, 'e', 'Pursuing Bachelor of Computer Application', '2018-2021', 'Indira Gandhi National Open University, New Delhi', ''),
-(9, 'pe', 'Data Operator', '2020 - Present', 'Akhand Jyoti Services Pvt. Ltd.', '');
+(7, 'e', 'Class 12th', '2012 - 2016', 'Federal University of Agriculture, Makurdi', 'School Passed Through Me'),
+(8, 'e', 'Pursuing Bachelor of Computer Science', '2020-2023', 'University of The People, USA', ''),
+(9, 'pe', 'Founder', '2018 - Present', 'Jristech General Trading.', '');
 
 -- --------------------------------------------------------
 
